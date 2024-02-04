@@ -43,7 +43,7 @@ GIF created with Mac's default screen recorder and Gifski
 
 Describe any challenges encountered while building the app.
 - Syntax for elements like the flexbox weren't on top of my mind, so I had to read through the provided resources to complete some of the challenges
-- The prework website was down for an entire day, which delayed my submission. 
+- The prework instructions website was down for an entire day, which delayed my submission. 
 
 ## License
 
