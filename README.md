@@ -1,32 +1,39 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunder*
 
-Submitted by: **Your Name Here**
+Submitted by: **Arya Mhaiskar**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunder** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added CSS rules to the following elements upon hover
+    * [x] stats-card
+        * [x] Smoothly enlarges by 5% in 300ms, shrinks back to original size after hover ends
+        * [x] Change color to lavender
+    * [x] button
+        * [x] Change color to lavender during hover
+        * [x] Cursor becomes pointer
+    * [x] header
+        * [x] The rectangle shape becomes smoothly rounded in 300ms. The shape smoothly returns to the original rectangle after the hover ends.  
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Web102PreworkWalkthrough](https://github.com/amhaiskar0921/web102_prework/assets/43621944/bdd3fb1b-3365-4791-9cc7-8c0f52d28367)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Mac's default screen recorder and Gifski
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +42,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Syntax for elements like the flexbox weren't on top of my mind, so I had to read through the provided resources to complete some of the challenges
+- The prework website was down for an entire day, which delayed my submission. 
 
 ## License
 
